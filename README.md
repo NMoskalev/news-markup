@@ -1,7 +1,17 @@
 ## Goals
 
-* Creating a simple news site with basic functionality. Please take a look at [Functional Requirements](#project-requirements)
-* Following guidlines and standard framework rules of choosen CMS. Please see [CMS way](#cms-way)
+* Create a simple news site with basic functionality. Please take a look at [Functional Requirements](#project-requirements)
+* Follow guidlines and standard framework rules of choosen CMS. Please see [CMS way](#cms-way)
+* Reach corresponding level
+* * Basic level
+* * * Creating pages (product lising page, article page and etc.)
+* * * Creating entities (article, menu, teaser)
+* * Middle level
+* * * Integration with search engine
+* * Advanced level
+* * * Using authorization and authentication
+* * * Using personalization
+* * * Using Forms
 
 ## System requirements
 
